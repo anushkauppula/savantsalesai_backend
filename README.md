@@ -6,8 +6,10 @@ check for python version. if not, download python latest.
 - python -m uvicorn main:app --host 0.0.0.0 --port 8000 --reload
 
 After running this, in your command prompt 
-- ipconfig
+
 In Windows
+- ipconfig
 check for iP4 address copy and paste in frontend, backend url
+
 In Mac
 - ipconfig getifaddr en0;
