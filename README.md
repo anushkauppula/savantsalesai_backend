@@ -9,6 +9,7 @@ After running this, in your command prompt
 
 In Windows
 - ipconfig
+
 check for iP4 address copy and paste in frontend, backend url
 
 In Mac
